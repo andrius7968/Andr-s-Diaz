@@ -91,5 +91,4 @@
 📧 Email: andresfdiaza1@gmail.com<br>
 📱 Phone: +57 315 750 5854<br>
 📍 Medellín, Colombia<br>
-🌐 LinkedIn: <a href="https://www.linkedin.com/in/andresfdiaza1" target="_blank">linkedin.com/in/andresfdiaza1</a>
 </p>
