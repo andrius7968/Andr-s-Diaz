@@ -76,7 +76,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy" />
   <img width="12" />
-  <img src="https://github.com/andrius7968/Andr-s-Diaz/blob/main/Nuevo_Logotipo_de_Power_BI.svg.png?raw=true" height="40" alt="Power BI logo" />
+  <img src="https://github.com/andrius7968/Andrés-Diaz/blob/main/Nuevo_Logotipo_de_Power_BI.svg.png?raw=true" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="40" alt="Excel logo" />
 </div>
